@@ -1,2 +1,2 @@
 # heplify.js
-HEPlify Sockets in Node
+HEPlify webSockets in Node.JS

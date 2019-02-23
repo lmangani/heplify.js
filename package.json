@@ -1,0 +1,39 @@
+{
+  "name": "heplify",
+  "version": "1.0.0",
+  "description": "HEPlify Sockets in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmangani/heplify.js.git"
+  },
+  "keywords": [
+    "hep",
+    "heplify",
+    "voip",
+    "rtc",
+    "jitsi",
+    "janus",
+    "mediasoup",
+    "webrtc",
+    "events"
+  ],
+  "author": "L. Mangani <lorenzo.mangani@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmangani/heplify.js/issues"
+  },
+  "homepage": "https://github.com/lmangani/heplify.js#readme",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "flat": "^4.1.0",
+    "hep-js": "^1.0.14",
+    "oh-my-log": "^5.0.1",
+    "parsip": "^1.0.5",
+    "safe-stable-stringify": "^1.1.0",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v15.2.0"
+  }
+}
